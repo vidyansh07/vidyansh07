@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ajay-dangoriya-tharu-b476b3260/" target="_blank">
+  <a href="https://www.linkedin.com/in/vidyansh-tripathi-2359822a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="vidyansht@gamil.com" target="_blank">
