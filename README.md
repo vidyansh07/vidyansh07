@@ -4,11 +4,37 @@
 </div>
 
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ajay-dangoriya-tharu-b476b3260/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="vidyansht@gamil.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+
 </div>
+
+<div align="center">
+🏮 Fullstack Developer
+🏮 Python (Django)
+🏮 Javascipt
+🏮 Devops
+🏮 Aws 
+🏮 Linux
+</div>
+<br> <br>
+<p align="center">
+<a href="https://twitter.com/0xSN1PE"><img src="https://img.icons8.com/doodle/50/000000/twitter-circled.png"/></a>
+<a href="mailto:iamsnipe@protonmail.com"><img src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a> <br> <br>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/vxsparsh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vxsparsh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vxsparsh&layout=compact&langs_count=8&theme=radical&hide=cmake"/>
+</a>
+</p>
 
 <!--
 **vidyansh07/vidyansh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
