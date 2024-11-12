@@ -49,7 +49,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-%23403B2A.svg?style=for-the-badge&logo=rust&logoColor=%23FFFFFF) 
-![Flask](https://img.shields.io/badge/Flask-%000000.svg?style=for-the-badge&logo=flask&logoColor=%FFFFFF) 
+![Flask](https://img.shields.io/badge/Flask-%000000.svg?style=for-the-badge&logo=flask&logoColor=%FFFFFF)
+![Automation](https://img.shields.io/badge/Automation-%2300BFFF.svg?style=for-the-badge) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23FF9900.svg?style=for-the-badge) 
+![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Networking Tools](https://img.shields.io/badge/Networking%20Tools-%239B59C1.svg?style=for-the-badge) 
+![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23F39C12.svg?style=for-the-badge) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%233F51B5.svg?style=for-the-badge) 
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2300C853.svg?style=for-the-badge) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
 <p align="center">
