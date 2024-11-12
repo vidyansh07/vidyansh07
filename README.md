@@ -49,7 +49,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-%23403B2A.svg?style=for-the-badge&logo=rust&logoColor=%23FFFFFF) 
-![Flask](https://img.shields.io/badge/Flask-%000000.svg?style=for-the-badge&logo=flask&logoColor=%FFFFFF)
 ![Automation](https://img.shields.io/badge/Automation-%2300BFFF.svg?style=for-the-badge) 
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23FF9900.svg?style=for-the-badge) 
 ![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
