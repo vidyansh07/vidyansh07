@@ -77,3 +77,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  # 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=vidyansh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vidyansh07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidyansh07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=vidyansh07&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=vidyansh07&icon=1&color=2)](https://visitcount.itsvg.in)
