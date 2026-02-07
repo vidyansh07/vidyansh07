@@ -361,6 +361,10 @@ class CurrentFocus:
 <br><br>
 
 ---
+### Wakatime Report
+<figure><embed src="https://wakatime.com/share/@vidyansh07/13fe3439-1b29-45e8-b9ff-e22ca5fcecbe.svg"></embed></figure>
+
+<br><br>
 
 <p align="center">
   <b>Thanks for visiting! Let's build something amazing together! 🚀</b>
